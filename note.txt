@@ -1,0 +1,1 @@
+尝试了lucene5 3 2 + hibernate3.5.5 + hibernate search 3.1.1 没有成功，估计是各种jar包不匹配
